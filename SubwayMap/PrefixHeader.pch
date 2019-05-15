@@ -33,6 +33,8 @@
 
 #import <UIKit/UIKit.h>
 #import "UIView+Toast.h"
+#import "Constants.h"
+
 
 
 #endif /* PrefixHeader_pch */

@@ -26,7 +26,7 @@
 
     self.view.backgroundColor = [UIColor groupTableViewBackgroundColor];
     
-    [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(initMetroView) name:@"LoadDataOK" object:nil];
+    [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(initMetroView) name:Data_Load_Ok object:nil];
 //    self.isEableDrawPath = YES;
 }
 

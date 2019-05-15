@@ -74,6 +74,7 @@
 		509B11A52269B55E00E4FB48 /* MetroGraph.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MetroGraph.m; sourceTree = "<group>"; };
 		509B11B72269E75000E4FB48 /* UIView+Toast.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Toast.h"; sourceTree = "<group>"; };
 		509B11B82269E75000E4FB48 /* UIView+Toast.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Toast.m"; sourceTree = "<group>"; };
+		509B121E226D6FF000E4FB48 /* Constants.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Constants.h; sourceTree = "<group>"; };
 		50A76AA72262DE4D008D384C /* SubwayMap.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SubwayMap.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		50A76AAA2262DE4D008D384C /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		50A76AAB2262DE4D008D384C /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -207,6 +208,7 @@
 				50A76AB82262DE4E008D384C /* Info.plist */,
 				50A76AB92262DE4E008D384C /* main.m */,
 				50A76AC62262E145008D384C /* PrefixHeader.pch */,
+				509B121E226D6FF000E4FB48 /* Constants.h */,
 			);
 			path = SubwayMap;
 			sourceTree = "<group>";

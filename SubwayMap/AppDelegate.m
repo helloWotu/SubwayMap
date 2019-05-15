@@ -32,7 +32,7 @@
         [[MetroDataContainer shareInstance] downloadSubwayData];
         
         dispatch_async(dispatch_get_main_queue(), ^{
-            [[NSNotificationCenter defaultCenter] postNotificationName:@"LoadDataOK" object:nil];
+            [[NSNotificationCenter defaultCenter] postNotificationName:Data_Load_Ok object:nil];
         });
 
     });
